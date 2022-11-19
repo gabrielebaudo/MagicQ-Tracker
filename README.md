@@ -1,4 +1,4 @@
-# MagicQ Trakers
+# MagicQ Trackers
 
 This project is about the Chamsys MagicQ Trakers science.
 
